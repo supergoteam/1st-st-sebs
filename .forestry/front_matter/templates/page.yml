@@ -63,5 +63,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/privacy.md
 - src/pages/contact.md
